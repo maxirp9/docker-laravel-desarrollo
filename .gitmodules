@@ -1,0 +1,3 @@
+[submodule "application"]
+	path = application
+	url = https://github.com/maxirp9/laravel-salones.git
